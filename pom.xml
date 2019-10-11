@@ -35,10 +35,10 @@
 		    <url>http://localhost:8081/repository/MyWeb-S/</url>
 		 </snapshotRepository>
 		
-	<!--	<repository>
+		<repository>
 		    <id>nexus</id>
-		    <url>http://172.31.15.236:8081/repository/maven-releases/</url>
-		</repository> -->
+		    <url>http://localhost:8081/repository/MyWeb/</url>
+		</repository>
   	</distributionManagement>
 	
 <build>
