@@ -32,11 +32,13 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
+		    <name>MyWeb-S</name>
 		    <url>http://localhost:8081/repository/MyWeb-S/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
+		    <name>MyWeb</name>
 		    <url>http://localhost:8081/repository/MyWeb/</url>
 		</repository>
   	</distributionManagement>
